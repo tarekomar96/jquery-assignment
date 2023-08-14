@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header section */
+
+.header{
+    background-image: url(../images/events-heavenly-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+}
+
+
+
+.layer{
+    background-color: rgb(129, 28, 31,0.8);
+    height: 100%;
+    
+}
+
+
+
+.header-caption h2{
+    font-size: 70px;
+    color: white;
+}
+
+
+.header-caption p{
+    font-size: 30px;
+    color: white;
+}
+
+
+.option{
+  
+    position: fixed;
+    top: 0;
+    left: -307.2;
+    z-index: 999;
+    
+}
+
+
+.option-links{
+    position: relative;
+height: 100vh;
+width: 20vw;
+
+
+}
+
+
+.option-links i{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.option-links a{
+text-decoration: none;
+color: white;
+transition: all 0.5s;
+font-size: 25px;
+}
+
+
+.option-links a:hover{
+   
+    color: rgb(129, 28, 31);
+    }
+
+
+
+
+.option-span{
+    
+    margin-left: 10px;
+    font-size: 30px;
+}    
+
+
+
+
+
+/* Accordion section */
+
+.Accordion-content h3{
+    background-color: rgb(230, 130, 133);
+    color: white;
+}
+
+
+
+.Accordion-content div{
+    background-color: rgb(204, 204, 204);
+    color: rgb(34, 34, 34);
+}
+
+
+
+
+
+/* counter section */
+
+.counter{
+    background-image: url(../images/invitation-2508607__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+
+
+
+
+.counter-layer{
+    background-color: rgb(129, 28, 31,0.8);
+    
+}
+
+
+
+
+
+.counter-content div{
+
+    border: 2px solid white;
+}
+
+
+
+
+
+/* contact section */
+
+.contact-container h2{
+    color: rgb(68, 68, 68);
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+.contact-left strong{
+    color: rgb(68, 68, 68);
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+
+.contact-left p{
+    color:#777777;
+    font-size:16px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+.contact-left-icons i{
+    color:#777777;
+ border: 1px solid black;
+margin: 0px 5px;
+font-size: 25px;
+transition: all 0.5s;
+
+}
+
+
+
+
+
+.contact-left-icons i:hover{
+    color:white;
+ border: 1px solid #D62E33;
+background-color: #D62E33;
+
+
+}
+
+
+
+
+
+
+
+
